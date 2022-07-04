@@ -1,5 +1,5 @@
 # StonePaperScissor
-In this project, we will create a Stone-Paper-Scissor game in Python using Classes and Objects.
+In this project, we will create a Stone-Paper-Scissor game in Python using OOPS concept(Classes and Objects) and random module.
 
 Project Description Here's how our project works:
 

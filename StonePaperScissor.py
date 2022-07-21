@@ -12,7 +12,7 @@ class Game :
 
     def get_computer_pick (self) :
         random_number = random.randint(1, 3)
-        selection = selections = {1 : "Rock", 2 : "Scissor", 3 : "Paper"}
+        selection = {1 : "Rock", 2 : "Scissor", 3 : "Paper"}
         return selection[random_number]
 
     def get_user_input (self) :
